@@ -1,5 +1,1 @@
-use myTrain;
-
-create table myTrain.demo1(id int);
-
-insert into myTrain.demo1(id) values (100);
+create table test1(id varchar(50));
