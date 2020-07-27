@@ -1,0 +1,1 @@
+alter table test1 add column flyway varchar(50);
