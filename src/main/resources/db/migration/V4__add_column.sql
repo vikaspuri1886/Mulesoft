@@ -1,1 +1,1 @@
-alter table "test" add column "flyway" varchar(50);
+alter table test add column flyway varchar(50);
